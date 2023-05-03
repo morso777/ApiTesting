@@ -1,0 +1,15 @@
+
+h
+java:S1192	"MDefine a constant instead of duplicating this literal "secret_sauce" 3 times.(™¢ äýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Æ„Î
+V	java:S125"<This block of commented-out lines of code should be removed.(ñÌ€²úÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(›øš—ûÿÿÿÿ8…ýÜŠø0
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›°Îøÿÿÿÿ
+R
+java:S1117"<Rename "userName" which hides the field declared at line 10.(ƒï¬ß
+V
+java:S1117";Rename "password" which hides the field declared at line 9.(àþ·‹øÿÿÿÿ
+R
+java:S1117!"<Rename "userName" which hides the field declared at line 10.(ƒï¬ß
+V
+java:S1117#";Rename "password" which hides the field declared at line 9.(àþ·‹øÿÿÿÿ

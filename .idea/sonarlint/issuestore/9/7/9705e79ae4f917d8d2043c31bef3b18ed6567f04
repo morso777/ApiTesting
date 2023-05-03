@@ -1,0 +1,119 @@
+
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(ù‡İ‚ıÿÿÿÿ8ÃõÈóô0
+b	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(«¤ÜÕ8ÃõÈóô0
+g	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(¹Í´Êÿÿÿÿÿ8ÃõÈóô0
+h	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(ñô…¶ÿÿÿÿÿ8ÃõÈóô0
+v
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞŸÉŒ8ÄõÈóô0
+|
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÉñãÿÿÿÿÿ8ÄõÈóô0
+{
+java:S1319:"eThe type of "expected" should be an interface such as "Map" rather than the implementation "HashMap".(Ø‰¹
+m
+java:S1104,"WMake browserFlag a static final constant or non-public and provide accessors if needed.(ŞØÿÚ
+m
+java:S1104-"RMake onGrid a static final constant or non-public and provide accessors if needed.(Ÿ€­øÿÿÿÿ
+f
+java:S1104."PMake host a static final constant or non-public and provide accessors if needed.(Ö«êú
+k
+java:S1104/"PMake port a static final constant or non-public and provide accessors if needed.(Í˜ªğúÿÿÿÿ
+p
+java:S11040"ZMake ieCountCurrent a static final constant or non-public and provide accessors if needed.(·Í¢Ê
+u
+java:S11041"_Make firefoxCountCurrent a static final constant or non-public and provide accessors if needed.(ÊŠŒŒ
+s
+java:S11042"^Make chromeCountCurrent a static final constant or non-public and provide accessors if needed.(±İî.
+y
+java:S11043"^Make safariCountCurrent a static final constant or non-public and provide accessors if needed.(ÈËìèúÿÿÿÿ
+m
+java:S11044"WMake browserName a static final constant or non-public and provide accessors if needed.(‡åÅ”
+z
+java:S11047"_Make outputExcelFileName a static final constant or non-public and provide accessors if needed.(ù˜óÏüÿÿÿÿ
+n
+java:S11049"XMake actualResult a static final constant or non-public and provide accessors if needed.(¥„µ
+j
+java:S1104:"TMake expected a static final constant or non-public and provide accessors if needed.(Ø‰¹
+u
+java:S1104A"XMake threadDriver a static final constant or non-public and provide accessors if needed.(ĞŸÉŒ8ÅõÈóô0
+y
+java:S1104C"WMake projectPath a static final constant or non-public and provide accessors if needed.(âŸÒºüÿÿÿÿ8ÆõÈóô0
+q
+java:S1104G"VMake properties a static final constant or non-public and provide accessors if needed.(¡–Üıÿÿÿÿ
+l
+java:S1104H"OMake url a static final constant or non-public and provide accessors if needed.(…åØ8ÆõÈóô0
+J
+java:S14440"4Make this "public static ieCountCurrent" field final(·Í¢Ê
+O
+java:S14441"9Make this "public static firefoxCountCurrent" field final(ÊŠŒŒ
+M
+java:S14442"8Make this "public static chromeCountCurrent" field final(±İî.
+S
+java:S14443"8Make this "public static safariCountCurrent" field final(ÈËìèúÿÿÿÿ
+G
+java:S14444"1Make this "public static browserName" field final(‡åÅ”
+O
+java:S1444A"2Make this "public static threadDriver" field final(ĞŸÉŒ8ÇõÈóô0
+R
+java:S1444G"0Make this "public static properties" field final(¡–Üıÿÿÿÿ8ÇõÈóô0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Æ„Î
+|
+java:S3008>"_Rename this field "PROPERTIES_RESOURCES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢§Šú8Ùğ«ïô0
+<
+java:S1170<"!Make this final field static too.(”ğ•¿ùÿÿÿÿ
+
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«¤ÜÕ8ÏõÈóô0
+y
+java:S1450)"WRemove the "testName" field and declare it as a local variable in the relevant methods.(¿šæ´ùÿÿÿÿ8Šæïô0
+]	java:S125("<This block of commented-out lines of code should be removed.(Í§ñ ûÿÿÿÿ8ú’ïô0
+]	java:S125*"<This block of commented-out lines of code should be removed.(¹“İäùÿÿÿÿ8Õ‘“ïô0
+X	java:S125;"<This block of commented-out lines of code should be removed.(Ô§¢Ô8ê­“ïô0
+]	java:S125?"<This block of commented-out lines of code should be removed.(ÅÈÇŞşÿÿÿÿ8Ê Êóô0
+X	java:S125\"<This block of commented-out lines of code should be removed.(Ùçğà8ÕõÈóô0
+]	java:S125o"<This block of commented-out lines of code should be removed.(ÅÔÁŠüÿÿÿÿ8ÖõÈóô0
+X	java:S125u"<This block of commented-out lines of code should be removed.(İûÜ8×õÈóô0
+”
+java:S1130{"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(ìĞÌ8×õÈóô0
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(ÕÃÆËùÿÿÿÿ8ÛõÈóô0
+T
+java:S2696˜"6Make the enclosing method "static" or remove this set.(Ş¢©¼8ŞõÈóô0
+H
+java:S2386Ÿ"%Make member "properties" "protected".(ü‚æÜûÿÿÿÿ8™Ã¸ôô0
+Y
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(ü‚æÜûÿÿÿÿ8áõÈóô0
+Y
+java:S2696¡"6Make the enclosing method "static" or remove this set.(öóËÏşÿÿÿÿ8áõÈóô0
+
+java:S1130¹"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ñô…¶ÿÿÿÿÿ8ãõÈóô0
+Y
+java:S2696½"6Make the enclosing method "static" or remove this set.(¯ƒÊşÿÿÿÿ8ãõÈóô0
+b
+java:S1128"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ8Ã¸ôô0
+h
+java:S1128"KRemove this unused import 'org.openqa.selenium.remote.DesiredCapabilities'.(¦ò©Š8Ã¸ôô0
+K
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8Ã¸ôô0
+P
+java:S1128"3Remove this unused import 'org.testng.ITestResult'.(ä¡±‘8Ã¸ôô0
+^
+java:S1128	"<Remove this unused import 'org.testng.annotations.Optional'.(ÑÙ’±ùÿÿÿÿ8Ã¸ôô0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ò©8Ã¸ôô0
+b
+java:S1128"@Remove this unused import 'io.restassured.internal.http.Status'.(³ö‹Ëıÿÿÿÿ8Ã¸ôô0
+P
+java:S1128"3Remove this unused import 'org.testng.annotations'.(ó“ŞÛ8£Ê«ğô0
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ã¸ôô0
+F
+java:S1128"")Remove this unused import 'java.io.File'.(†Ğ¥Å8Ã¸ôô0
+;
+java:S1128$"Remove this duplicated import.(ªËŞˆ8™Ã´óô0
+N
+java:S1068)",Remove this unused "testName" private field.(¿šæ´ùÿÿÿÿ8Ñ°’ïô0
+Q
+java:S1068<"/Remove this unused "description" private field.(”ğ•¿ùÿÿÿÿ8Ó°’ïô0
+R
+java:S1144²"/Remove this unused private "initParams" method.(‡ÙÊäûÿÿÿÿ8äõÈóô0
+S
+java:S1144¹"0Remove this unused private "setUpChrome" method.(ñô…¶ÿÿÿÿÿ8äõÈóô0
