@@ -35,8 +35,6 @@ public class SystemUtil {
     }
 
 
-
-
     public static void driverKiller() throws Exception
     {
         final String KILL = "taskkill /IM ";
@@ -48,16 +46,4 @@ public class SystemUtil {
         Thread.sleep(1000);
     }
 
-    /*public static void waitForPageToLoad(PageManager pageManager) {
-        new WebDriverWait(pageManager.getDriver(), timeout*20).until(
-                webDriver -> ((JavascriptExecutor) webDriver).executeScript("return document.readyState").equals("complete"));
-    }
-
-    public static String switchToNewTab(PageManager pageManager, String previusHandle, int count) {
-        return pageManager.getDriver().getWindowHandles()
-                .stream()
-                .filter(handle -> !handle.equals(previusHandle)).skip(count)
-                .findFirst()
-                .get();
-    }*/
 }
